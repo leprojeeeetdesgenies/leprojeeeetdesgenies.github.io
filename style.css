@@ -6,6 +6,10 @@
   margin-left: 10px;
   }
 
+.ingredients, .etapes{
+  display: inline-block;
+  }
+
 h1{
   font-family: cambria;
   font-style: italic;
