@@ -8,7 +8,7 @@
   }
   
 .ingredients, .etapes{
-  display: block;
+  display: inline-block;
   }
 
 h1{
