@@ -3,7 +3,7 @@
   border: 1px solid rgba(0,0,0,0.3);
   padding: 3px;
   min-width: 5px;
-  max-width: 20px;
+  max-width: 10px;
   }
   
 .ingredients, .etapes{
@@ -17,6 +17,11 @@ h1{
   }
   
 h2{
+  font-family: cambria;
+  color: #E8521F;
+  }
+
+h3{
   font-family: cambria;
   color: #E8521F;
   }
