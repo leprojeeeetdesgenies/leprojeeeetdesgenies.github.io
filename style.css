@@ -4,6 +4,7 @@
   border-style: dotted;
   padding: 5px 5px;
   min-width: 20px;
+  max-width: 40px
   }
 
 .ingredients, .etapes{
