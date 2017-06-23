@@ -10,7 +10,7 @@
 
 .ingredients, .etapes{
   display: inline-block;
-  left-padding: 30px;
+  marging-left: 30px;
   }
 
 h1{
