@@ -33,6 +33,12 @@ h3{
   color: #E8521F;
   }
 
+h5{ 
+  font-family: 'Bubbler One', sans-serif;
+  font-style: italic;
+  color: #131572;
+  }
+
 .recette{
   border-radius: 100%;
   }
