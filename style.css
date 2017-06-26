@@ -33,12 +33,11 @@ h3{
   color: #E8521F;
   }
 
-.image{
+.recette{
   border-radius: 100%;
   }
 
-.image entete
-{
+.entete{
   border-radius: 0px;
   display: block;
   }
